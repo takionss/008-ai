@@ -44,11 +44,11 @@ header_pages:
 # [추가된 부분] 언어별 사이트 타이틀 및 설명 설정
 # ----------------------------------------------------------------
 titles:
-  ko: "Smiles Life - AI 기술 동향"
-  en: "Smiles Life - AI Technology Trends"
-  ja: "Smiles Life - AI技術の動向"
-  zh-TW: "Smiles Life - AI 技术趋势"
-  es: "Smiles Life - Tendencias de tecnología de IA"
+  ko: "AI 기술 동향"
+  en: "AI Technology Trends"
+  ja: "AI技術の動向"
+  zh-TW: "AI 技术趋势"
+  es: "Tendencias de tecnología de IA"
 
 descriptions:
   ko: "Smiles Life의 생성형 AI 활용법 및 글로벌 뉴스"
