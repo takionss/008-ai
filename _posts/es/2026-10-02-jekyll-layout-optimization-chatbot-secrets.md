@@ -81,7 +81,7 @@ Cuando llevas un tiempo gestionando tu propio sitio web estático, te das cuenta
 
 Para lograr esta flexibilidad sin enloquecer programando condicionales complejos en Liquid, me gusta utilizar un truco muy potente basado en instrucciones precisas a la inteligencia artificial. Le pido al modelo que diseñe un sistema de variables personalizadas dentro del `frontmatter` que modifiquen de forma dinámica las clases CSS del contenedor principal según lo que necesite el artículo. Por ejemplo, suelo escribir una orden directa como: «Escribe un bloque de código Liquid condicional que evalúe si la variable `sidebar` está activada en la cabecera del post, para alternar automáticamente entre una estructura de dos columnas y un diseño centrado de ancho completo».
 
-Lo maravilloso de este método es que la IA no se limita a darte el código suelto, sino que te enseña cómo estructurar las condiciones `{% if %}` y `{% unless %}` de manera limpia para que tu archivo de diseño principal siga siendo legible. He probado este sistema en varios de mis blogs personales y te aseguro que ahorra una cantidad titánica de tiempo cuando quieres rediseñar una sección entera sin tocar cada documento de contenido uno por uno.
+Lo maravilloso de este método es que la IA no se limita a darte el código suelto, sino que te enseña cómo estructurar las condiciones `&#123;% if %&#125;` y `&#123;% unless %&#125;` de manera limpia para que tu archivo de diseño principal siga siendo legible. He probado este sistema en varios de mis blogs personales y te aseguro que ahorra una cantidad titánica de tiempo cuando quieres rediseñar una sección entera sin tocar cada documento de contenido uno por uno.
 
 
 
